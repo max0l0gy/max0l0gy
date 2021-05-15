@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my e-shop open source project
+- 🌱 I’m currently learning Flutter
+
+---
+
+***"It is a myth that we can get systems “right the first time.”"*** - Rober C Martin. Clean Code.
+
 <!--
 **max0l0gy/max0l0gy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
