@@ -17,6 +17,8 @@
 
  — Rober C Martin. Clean Code
 
+---
+***“Be the type of person you want to meet“***
 <!--
 **max0l0gy/max0l0gy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
