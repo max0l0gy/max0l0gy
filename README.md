@@ -5,11 +5,13 @@
 
 ---
 
-***"It is a myth that we can get systems “right the first time.”"*** - Rober C Martin. Clean Code.
+***"It is a myth that we can get systems “right the first time.”"*** — Rober C Martin. Clean Code.
 
 ---
 
 ***To be successful you need to practice***
+---
+***So take a little pride in your workmanship. Spend a little time with each of your functions and classes. Choose better names, split large functions into smaller functions, and generally just take care of what you’ve created. Care is a precious resource.*** — Rober C Martin. Clean Code
 
 <!--
 **max0l0gy/max0l0gy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
