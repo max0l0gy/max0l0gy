@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my e-shop open source project
-- 🌱 I’m currently learning Flutter
+- 🌱 Experimenting with reactive REST
+- 🌱 I’m currently learning Flutter, Kotlin
 
 ---
 
