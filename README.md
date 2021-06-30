@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my e-shop open source project
-- 🌱 Experimenting with reactive REST
+- 🤔 Experimenting with reactive REST
 - 🌱 I’m currently learning Flutter, Kotlin
 
 ---
