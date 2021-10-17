@@ -6,7 +6,9 @@
 
 ---
 
-***"It is a myth that we can get systems «right the first time»."*** — Rober C Martin. Clean Code.
+***«It is a myth that we can get systems "right the first time".»*** 
+
+— Rober C Martin. Clean Code.
 
 ---
 
