@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my e-shop open source project
+- 🔭 I’m currently working on [e-book about best practices and experiments](http://codemonsters.team/)
+- 🔭 mirror of monsters [git project](https://github.com/codemonstersteam)
 - 🤔 Experimenting with reactive REST
-- 🌱 I’m currently learning Flutter, Kotlin
+- 🌱 I’m currently learning Flutter, Kotlin, DevOps
 
 ---
 
