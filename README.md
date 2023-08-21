@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [e-book about best practices and experiments](http://codemonsters.team/)
-- 🔭 mirror of monsters [git project](https://github.com/codemonstersteam)
-- 🤔 Experimenting with reactive REST
+- 🔭 I’m currently working on [e-book about best practices and experiments](http://codemonsters.team/) (Server down until September 5th)
+- 🔭 Production sources 🤪 in github [git project](https://github.com/codemonstersteam)
+- 🔭 Dev in my exerimental server in gitlab [git project](https://git.codemonsters.team/guides/) 
+- 🤔 Experimenting with reactive REST, Process Acceleration, DevOps
 - 🌱 I’m currently learning Flutter, Kotlin, DevOps
 
 ---
